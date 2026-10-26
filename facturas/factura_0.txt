@@ -1,0 +1,20 @@
+Pedido #0
+Cliente: A
+Dirección: C
+----------------
+corral queso
+            16000
+    +lechuga
+    1000
+    +lechuga
+    1000
+    +lechuga
+    1000
+    -tomate
+    -tomate
+
+    19000
+----------------
+Precio Neto:  19000
+IVA:          3610
+Precio Total: 22610
